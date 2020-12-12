@@ -1,4 +1,8 @@
-## Spotify Clone - https://spotify-clone-e6ea3.web.app
+## Spotify Clone
+
+Demo: https://spotify-clone-e6ea3.web.app
+
+![Spotify Clone](https://user-images.githubusercontent.com/4500215/101992579-ae68b200-3c71-11eb-823c-e9a7472c4d51.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
